@@ -1,0 +1,15 @@
+TEST SCENARIOS FOR ACTITIME.COM/CLIENTS 
+1.check for website enterd adress showing right home page or not
+2.check whether the scolling on home page with proper options or not
+3.check by entering into clients fiend on home page shows all options or not as listed by client
+4.check one by on by one in row correct optedd or not
+5.check by entering into architecture field firstly which viewd properly as descripted and image structured according to consumer specified or not
+6.check start fere trial function working or not by clicking on it
+7.check consults field by clicking on it and check all images sructured and description properly or not
+check for start free trial function by clicking on it 
+8.check for design function working prperly or not by clicking on it check for summury decriprion and structure then check for start free trial option by clicking on it as spececifed option 
+9.check for see all industries option as opted properrly or not  and shows correct option or not by clicking on it 
+10.click for checking the functionality of buttens education, engineering ,healthcare shows correct sructure and description as specified or not check for start free trial button in all specified functions
+11.check for IT small business options and check for it shows proper conruct or nor as specified 
+12.check for case studies functoinality proper or not 
+13.check all coment s and reviews shows corect form or not as required with correct format or not
