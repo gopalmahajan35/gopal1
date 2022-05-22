@@ -1,0 +1,18 @@
+flipcart website test scenarios
+1.check if mobile number is matchwhen type in mobile number field
+2.verify that user is able to login by entering valid credentials and clicking on logging button
+3.checking on login buttun check that user is not able to login by enering valid credentials
+4.check that user not able to login with invalid email id and mobile number
+5.check all the text boxes radio buttons other buttens
+6.check the required fields by not filling any data
+7.check user should register by filling all required fields
+8.check all optional fields when data not filled
+9.email text field that has an @symbol written in  words check all valid email
+
+payment test scenarios
+1.verify that product price is correct along with shipping charges correctly
+2.confirm vat varies based on number of product in kart
+3.verify all payment methods are correctly working such as net banking,credit/debit card
+ and pay pal using dummy numbers for testing
+4.ensure payment is refunded to costemer after a product is purchased by user
+5.verify emails sent to costumer when payment is succesfully refunded by user
